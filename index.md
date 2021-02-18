@@ -1,37 +1,30 @@
-## Welcome to GitHub Pages
+<html>
+<head>
+<meta charset = "utf-8">
+<title>HomeWork</title>
+   </head>
+ <body> 
 
-You can use the [editor on GitHub](https://github.com/BadrAlqarni/LABWORK/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+<body style="background-color:gray;">
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+<p style="text-align:center;color:black; font-size:30pt;">CPIT-405 Homeworks</p> 
 
-### Markdown
+<b> <a href="HomeWork1.html" target="_blank">
+   <h1> Homework#1 </h1> </a>
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
-```markdown
-Syntax highlighted code block
+<b> <a href="SmallQuiz2.html" target="_blank">
+   <h1> SmallQuiz#2 </h1> </a>
 
-# Header 1
-## Header 2
-### Header 3
+<b> <a href="Kabsa.html" target="_blank">
+   <h1> Saudi Traditional Kabsa </h1> </a>
 
-- Bulleted
-- List
+<b> <a href="N_Day.html" target="_blank">
+   <h1> Saudi Arabia National Day (90) </h1> </a>
 
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/BadrAlqarni/LABWORK/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+<a href="index.html" target="_blank">
+<img src="https://www.iconfinder.com/data/icons/construction-166/32/construction-01-128.png" alt="Simply Easy Learning" width="110" height="110";>
+<br>
+   <h1> Go back to homepage </h1> </a>
+ </body>
+</html>
